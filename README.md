@@ -4,7 +4,7 @@
 **Course Date:** 22.04.2021  
 **Name:** Sedat  
 **Surname:** Kayaalp  
-**Email:** kayaalpsedat@yandex.com  
+**Email:** developeralp@yandex.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
